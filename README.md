@@ -1,4 +1,6 @@
 # TheNewsReader
+Offline News Reader app
+<span style="color:red">Android project using Java text</span>.
 Read News Offline using SQLite and hackernews API
 ![11](https://user-images.githubusercontent.com/46136886/176677118-19567958-e449-480e-8648-b0d43d630478.png)
 ![3](https://user-images.githubusercontent.com/46136886/176677130-ba6ded01-9008-4e7b-a0ad-173a296a8ed4.png)
